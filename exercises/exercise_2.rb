@@ -8,7 +8,7 @@ puts "----------"
 p Store.count
 p Store.all
 
-
+# find id
 @store1 = Store.find(1)
 @store2 = Store.find(2)
 
