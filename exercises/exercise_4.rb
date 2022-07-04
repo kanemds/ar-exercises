@@ -25,4 +25,3 @@ end
 
 @less_than_1m.each do |store| puts store.name, store.annual_revenue
 end 
-
